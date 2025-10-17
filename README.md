@@ -1,8 +1,10 @@
-# JDA8888_Python_Learning
+# JDA_Learning_Journey
+
+Welcome to JDA Learning Journey — a personal, version-controlled archive showcasing my continuous growth in software engineering.
+
 
  🐍 Python Learning Journey
-
-Welcome to my **Python Learning Journey** — a personal, version-controlled record of my growth and progress in Python programming.  
+Welcome to my **Python Learning Journey**
 This repository documents my hands-on practice, mini-projects, and key concepts learned along the way as I transition from a Structural Engineer to a Software Engineer.
 
 ---
