@@ -1,0 +1,28 @@
+# 🐍 Python Learning Journey
+
+Welcome to the **Python** section of my learning journey.  
+This folder contains all my Python scripts, projects, and concept-based exercises
+
+
+## 🧠 Topics Covered
+- Data types and operators  
+- Control flow (if, for, while)  
+- Functions and modules  
+- File handling and CSV processing  
+- Object-Oriented Programming (classes, inheritance, encapsulation)  
+- GUI projects using **PyQt5**  
+- API requests using **requests** library  
+- NumPy and CSV data manipulation  
+
+
+Note: Some projects (like PyQt5 Apps) may requir dependencies
+
+---
+
+## ⚙️ How to Run
+1. Navigate to this folder:
+   ```bash
+   cd Python
+
+# Run Any Script: 
+python filename.py
