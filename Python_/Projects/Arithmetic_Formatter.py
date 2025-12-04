@@ -1,7 +1,7 @@
 # Arithmetic Formatter project. 
 
 
-def arithmetic_arranger(problems, show_answers=False):
+def arithmetic_arranger(problems, show_answers=True):
     if len(problems) > 5:
         return "Error: Too many problems."
 
